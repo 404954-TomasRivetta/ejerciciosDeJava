@@ -12,7 +12,7 @@
 2. Hacer un programa que ingrese el precio de un artículo a la venta y calcule el
    precio con IVA.
 
-   [SOLUCION]()
+   [SOLUCION](./ejercicio_02/)
 
 ---
 
@@ -20,13 +20,13 @@
    artículos vendidos. De cada artículo ingresar el precio unitario y la cantidad.
    Finalmente imprimir el total de la factura
 
-   [SOLUCION]()
+   [SOLUCION](./ejercicio_03/)
 
 ---
 
 4. Ingresar nombre y altura de dos personas, informar el nombre de la más alta.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_04/)
 
 ---
 
@@ -34,14 +34,14 @@
    cobra por hora. Indique el total a cobrar teniendo en cuenta que si trabajó más
    de 180 horas las excedentes las cobra con un 50 % de aumento.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_05/)
 
 ---
 
 6. Ingresar un año e indicar si ese año es bisiesto. Un año es bisiesto si es
    múltiplo de 4 y no es múltiplo de 100 o si es múltiplo de 400.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_06/)
 
 ---
 
@@ -51,27 +51,27 @@
    la cantidad de km realizados por un cliente e indique el importe que se le debe
    cobrar.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_07/)
 
 ---
 
 8. Ingresar 10 números por teclado, informar su suma y promedio.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_08/)
 
 ---
 
 9. Ingresar un número n y a continuación n números positivos. Informar la
    cantidad de mayores a 5 que se hayan ingresado.
 
-   [SOLUCION]()
+   [SOLUCION](ejercicio_09/)
 
 ---
 
 10. Ingresar un número y validar que sea positivo. Si no lo es continuar
     solicitándolo al usuario hasta que ingrese un número correcto.
 
-    [SOLUCION]()
+    [SOLUCION](ejercicio_10/)
 
 ---
 
@@ -80,7 +80,7 @@
     informar cuántos disputarán la carrera. Para que un corredor pueda participar
     su tiempo de clasificación no puede superar en 15 % al del ganador.
 
-    [SOLUCION]()
+    [SOLUCION](ejercicio_11/)
 
 ---
 
@@ -94,7 +94,7 @@
     • Cantidad de autos con poco uso.
     • Promedio de antigüedad de los autos que no sean muy antiguos.
 
-    [SOLUCION]()
+    [SOLUCION](ejercicio_12/)
 
 ---
 
