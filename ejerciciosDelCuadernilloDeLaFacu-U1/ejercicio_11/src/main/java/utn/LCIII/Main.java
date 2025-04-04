@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        //SOLUCION PROPUESTA POR MI
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese el tiempo del ganador de la clasificacion en segundos: ");
@@ -33,6 +34,7 @@ public class Main {
         }
 
         System.out.println("La cantidad de corredores que disputaran son: " + cantQueCorreran);
+        // -------------------------------------------------------------------------------------
 
     }
 }
