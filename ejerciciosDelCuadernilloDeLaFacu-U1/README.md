@@ -104,23 +104,55 @@
    nombre, apellido y edad de una persona. Crear un programa que permita
    ingresar los datos de algunas personas por teclado y con esos datos cree
    instancias y muestre por pantalla el estado de las mismas.
+
+   [SOLUCION](ejercicio_01POO/)
+
+---
+
 2. Crear una clase Punto que permita representar puntos en un plano de un
    sistema de coordenadas cartesianas. Crear un programa que permita ingresar
    los datos de dos puntos y con ellos cree dos instancias de la clase Punto. A
    partir de las instancias creadas calcular y mostrar la distancia existente entre
    ambos puntos.
+
+    [SOLUCION](Ejercicio_02POO/)
+
+---
+
 3. Agregar a la clase persona un método que retorne su índice de masa corporal.
    Este último dato se calcula como: IMC = peso / altura2
+
+    [SOLUCION](Ejercicio_03POO/)
+
+---
 4. Programar una clase Auto con datos de un automotor (marca, modelo, precio
    y kilometraje). Incluir un método que retorne la antigüedad del auto.
+
+       [SOLUCION](Ejercicio_04POO/)
+
+---
 5. Programar una clase Equipo que represente a un equipo de fútbol. Incluir en
    la misma atributos para almacenar el nombre del equipo y los datos relativos
    a un campeonato con forma de liga: puntos, cantidad de partidos ganados,
    empatados y perdidos, cantidad de goles realizados y recibidos y posición.
+
+    [SOLUCION](Ejercicio_05POO/)
+
+---
+
 6. Programar una clase Partido que represente a un partido de futbol. La misma
    debe contener dos atributos de tipo Equipo que indiquen los equipos
    contendientes y atributos necesarios para indicar el resultado del mismo.
+
+    [SOLUCION](Ejercicio_06POO/)
+
+---
+
 7. Dado el valor de los tres lados de un triángulo se necesita calcular su
    perímetro. Se pide crear en el método main() un objeto y determinar si el
    perímetro es superior a 10. Determinar la o las clases necesarias, sus atributos
    y métodos.
+
+   [SOLUCION](Ejercicio_07POO/)
+
+---
