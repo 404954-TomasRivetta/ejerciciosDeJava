@@ -25,7 +25,7 @@ public class Persona {
     }
 
     public void calcularIMC(){
-        double imc = peso/altura;
+        double imc = peso/Math.pow(altura,2);
         System.out.println("Indice de masa corporal: " + imc);
     }
 
